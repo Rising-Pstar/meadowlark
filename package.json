@@ -1,0 +1,25 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "for learning node and express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rising-Pstar/meadowlark.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "js",
+    "handlebars"
+  ],
+  "author": "Pstart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rising-Pstar/meadowlark/issues"
+  },
+  "homepage": "https://github.com/Rising-Pstar/meadowlark#readme"
+}
